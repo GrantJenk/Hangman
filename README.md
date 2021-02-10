@@ -1,6 +1,9 @@
 # Hangman
 A web interface to play Hangman, written in Javascript using React.
 
+## Game Info
+A random word will be chosen. The objective is to guess all the letters in that word, only allowing six mistakes. Use your keyboard to make a guess!
+
 ## Installation
 Run the following terminal command in the root directory of this project
 ```sh
